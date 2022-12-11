@@ -1,5 +1,4 @@
 import { Link, Routes, Route } from 'react-router-dom';
-import './App.css';
 import TestJSX from './components/TestJSX'
 import Condition from './components/Condition'
 import AffichageBoucle from './components/AffichageBoucle'
